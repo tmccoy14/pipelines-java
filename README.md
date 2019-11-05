@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AFS-CTO/Modern%20Custom%20Dev/_apis/build/status/First-Java.CI?branchName=master)](https://dev.azure.com/AFS-CTO/Modern%20Custom%20Dev/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
